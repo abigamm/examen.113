@@ -1,0 +1,56 @@
+*
+{
+	margin:5px;
+	padding:5px;
+	
+}
+body
+{
+	background-image:url("https://thumbs.dreamstime.com/b/telar-andino-de-aguayo-58702039.jpg");
+	color:black;	
+}
+h1
+{
+	font-size:100px;
+}
+h2
+{
+	text-align:center;
+}
+li 
+{
+	height:15px;
+	width:250px;
+	color:#DC61BE  ;
+	background-color:#DC61BE ;
+}
+header 
+{
+	height:150px;
+	background-color: #F0A2DD ;
+	font-family:milcandy;
+	text-align:center;
+}
+img
+{
+	height:200px;
+	width:290px;
+	display: block;
+    margin: 0px auto;
+}
+aside
+{
+	height:60%;
+	width:31.5%;
+	float:left;
+	background-color:#948AD5  ;
+	opacity: 0.85;
+}
+section
+{
+	height:60%;
+	width:31.5%;
+	float:left;
+	background-color:#F7A9FA ;
+	opacity: 0.85;
+}

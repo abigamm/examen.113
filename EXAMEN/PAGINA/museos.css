@@ -1,0 +1,68 @@
+*
+{
+	margin:5px;
+	padding:5px;
+	
+}
+body
+{
+	background-image:url("l.jpeg");
+	color:black;	
+
+}
+header 
+{
+	height:150px;
+	background-color:#D1FB00;
+	font-family:milcandy;
+	text-align:center;
+}
+h1
+{
+	font-size:100px;
+}
+h2
+{
+	color:#00F3FB ;
+	text-align:center;
+}
+table
+{
+	margin: 0 auto;
+	border: black 1px solid;
+}
+li 
+{
+	height:15px;
+	width:250px;
+	color:#FBBE00 ;
+	background-color:#FBBE00 ;
+}
+img
+{
+	height:250px;
+	width:290px;
+}
+section
+{
+	height:60%;
+	width:43%;
+	float:left;
+	background-image:url("https://p1.pxfuel.com/preview/102/824/952/cave-paintings-prehistory-museum.jpg");
+	opacity: 0.85;
+}
+aside
+{
+	height:60%;
+	width:53%;
+	float:left;
+	background-color:#E0E0E0;
+	opacity: 0.8;
+}
+b
+{
+	text-align:center;
+	display: block;
+	margin: 1px auto;
+	
+}

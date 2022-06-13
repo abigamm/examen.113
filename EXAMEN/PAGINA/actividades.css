@@ -1,0 +1,52 @@
+* 
+{
+	margin:5px;
+	padding:5px; 
+	
+}
+body
+{
+	background-image:url("r.jpeg");
+	color:black;	
+}
+li 
+{
+	height:15px;
+	width:250px;
+	color:#FBF700;
+	background-color:#FB8500;
+}
+li 
+{
+	height:15px;
+	width:250px;
+	color:#FBBE00 ;
+	background-color:#FBBE00 ;
+}
+header 
+{
+	height:150px;
+	background-image:url("t.jpeg");
+	font-family:milcandy;
+	text-align:center;
+}
+h1
+{
+	font-size:100px;
+}
+img
+{
+	height:250px;
+	width:290px;
+	display: block;
+    margin: 0px auto
+
+}
+section
+{
+	height:70%;
+	width:98%;
+	float:left;
+	background-image:url("s.jpeg");
+	opacity: 0.9;
+}

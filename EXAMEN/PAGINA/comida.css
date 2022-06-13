@@ -1,0 +1,49 @@
+*
+{
+	margin:5px;
+	padding:5px;
+	
+}
+body
+{
+	background-image:url("https://s1.1zoom.me/big0/533/Orange_fruit_Texture_491561.jpg");
+	color:black;	
+}
+h1
+{
+	font-size:100px;
+}
+li 
+{
+	height:15px;
+	width:250px;
+	color: #BEF963 ;
+	background-color:#BEF963 ;
+}
+header 
+{
+	height:150px;
+	background-color:#F9A763 ;
+	font-family:milcandy;
+	text-align:center;
+}
+img
+{
+	height:250px;
+	width:390px;
+	display: block;
+    margin: 0px auto;
+}
+aside
+{
+	height:80%;
+	width:48%;
+	float:left;
+	background-color:#63F9B9 ;
+	opacity: 0.85;
+}
+table
+{
+	margin: 0 auto;
+	border: black 1px solid;
+}

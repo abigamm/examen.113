@@ -1,0 +1,56 @@
+*
+{
+	margin:5px;
+	padding:5px; 
+}
+body
+{
+	background-image:url("https://cd1.eju.tv/wp-content/uploads/2020/04/img_5eaaaab094d6b.jpg");
+	color:black;		
+}
+header 
+{
+	height:150px;
+	background-color:#85F963;
+	font-family:milcandy;
+	text-align:center;
+}
+h1
+{
+	font-size:100px;
+}
+li 
+{
+	height:15px;
+	width:250px;
+	color:#FBF700;
+	background-color:#FB8500;
+}
+h3
+{
+    font-family:milcandy;
+	text-align:center;
+	font-size:50px;
+}
+section
+{
+	height:60%;
+	width:48%;
+	float:left;
+	background-color:#75FB00;
+	opacity: 0.85;
+}
+aside
+{
+	height:60%;
+	width:48%;
+	float:left;
+	background-color:#00FBD4;
+	opacity: 0.85;
+}
+img
+{
+	height:200px;
+	width:290px;
+
+}
